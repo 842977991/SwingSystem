@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="128add59-74d6-459e-9464-dffdc7173f53" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MySwingTextSystem" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/QuestionFileReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1295#1296#0" expanded="true" />
+                <element signature="e#1329#1330#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/util/UserFileReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1116#1117#0" expanded="true" />
+                <element signature="e#1158#1159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/BaseFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/MySpring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/QuestionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/QuestionDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/LoginFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ExamFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="252" column="26" selection-start-line="252" selection-start-column="26" selection-end-line="252" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="F:/2.Java笔记/考试系统/考试系统第01课---Swing初识(窗体+面板+菜单+组件)/代码/src/testgui/TestGUI.java" />
+        <option value="$PROJECT_DIR$/src/test_login/ImplListener.java" />
+        <option value="$PROJECT_DIR$/src/test_login/Login.java" />
+        <option value="$PROJECT_DIR$/src/test_login/Window.java" />
+        <option value="F:/2.Java笔记/考试系统/考试系统第02课---登录窗口+模板模式/代码/src/view/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/Login.java" />
+        <option value="$PROJECT_DIR$/src/test_gui/TestGUI.java" />
+        <option value="$PROJECT_DIR$/src/util/BaseFrame.java" />
+        <option value="$PROJECT_DIR$/src/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/dbfile/User" />
+        <option value="$PROJECT_DIR$/src/dbfile/User.txt" />
+        <option value="$PROJECT_DIR$/src/util/MySpring.java" />
+        <option value="$PROJECT_DIR$/src/util/UserFileReader.java" />
+        <option value="$PROJECT_DIR$/src/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/service/UserService.java" />
+        <option value="F:/2.Java笔记/考试系统/考试系统第05课---题目存储与读取/代码/src/dao/QuestionDao.java" />
+        <option value="$PROJECT_DIR$/src/dao/QuestionDao.java" />
+        <option value="$PROJECT_DIR$/src/service/QuestionService.java" />
+        <option value="$PROJECT_DIR$/src/test_login/TextLogin.java" />
+        <option value="$PROJECT_DIR$/src/view/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/domain/Question.java" />
+        <option value="$PROJECT_DIR$/src/util/QuestionFileReader.java" />
+        <option value="$PROJECT_DIR$/src/dbfile/Question.txt" />
+        <option value="$PROJECT_DIR$/src/view/ExamFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="125" />
+    <option name="y" value="5" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <flattenPackages PackagesPane="false" />
+      <showMembers PackagesPane="false" />
+      <showModules PackagesPane="true" />
+      <hideEmptyPackages PackagesPane="true" />
+      <compactDirectories Scope="true" />
+      <abbreviatePackageNames PackagesPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MySwingTextSystem" type="58d84e3e:PackageViewProjectNode" />
+              <item name="MySwingTextSystem" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="58d84e3e:PackageViewProjectNode" />
+              <item name="MySwingTextSystem" type="616d4139:PackageViewModuleNode" />
+              <item name="view" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MySwingTextSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySwingTextSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySwingTextSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dbfile" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="domain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test_gui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test_login" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="util" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MySwingTextSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="MySwingTextSystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="view" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\MySwingTextSystem\src\img" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TextLogin">
+    <configuration name="ExamFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.ExamFrame" />
+      <module name="MySwingTextSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_gui.TestGUI" />
+      <module name="MySwingTextSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_login.TextLogin" />
+      <module name="MySwingTextSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TextLogin" />
+        <item itemvalue="Application.ExamFrame" />
+        <item itemvalue="Application.TestGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.15549597" />
+      <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.12801608" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5008606" side_tool="true" weight="0.12801608" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731904" weight="0.16973126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50268096" side_tool="true" weight="0.24611032" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12801608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731904" visible="true" weight="0.17821783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50268096" side_tool="true" weight="0.24611032" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test_login/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/view/Login.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第02课---登录窗口+模板模式/代码/src/view/LoginFrame.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第02课---登录窗口+模板模式/代码/src/util/BaseFrame.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第03课---考试窗口绘制/代码/src/view/ExamFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/domain.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第04课---登录功能(缓存+IOC思想+生命周期托管单例模式)/代码/src/domain/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/dbfile/User" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第04课---登录功能(缓存+IOC思想+生命周期托管单例模式)/代码/src/util/UserFileReader.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第04课---登录功能(缓存+IOC思想+生命周期托管单例模式)/代码/src/util/MySpring.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第04课---登录功能(缓存+IOC思想+生命周期托管单例模式)/代码/src/dao/UserDao.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第04课---登录功能(缓存+IOC思想+生命周期托管单例模式)/代码/src/view/LoginFrame.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第04课---登录功能(缓存+IOC思想+生命周期托管单例模式)/代码/src/service/UserService.java" />
+    <entry file="file://F:/2.Java笔记/Java第62课---反射机制(方法&amp;构造方法)/代码/src/testconstructor/TestConstructor.java" />
+    <entry file="file://F:/2.Java笔记/Java第62课---反射机制(方法&amp;构造方法)/代码/src/testconstructor/Person.java" />
+    <entry file="file://F:/2.Java笔记/Java第62课---反射机制(方法&amp;构造方法)/代码/src/ioc/Question.java" />
+    <entry file="file://F:/2.Java笔记/Java第62课---反射机制(方法&amp;构造方法)/代码/src/ioc/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/dbfile/Question/txt.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第05课---题目存储与读取/代码/src/domain/Question.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第05课---题目存储与读取/代码/src/util/QuestionFileReader.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第05课---题目存储与读取/代码/src/dao/QuestionDao.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第05课---题目存储与读取/代码/src/service/QuestionService.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第05课---题目存储与读取/代码/src/test/Test.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/net/URLClassLoader.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/misc/Launcher.class" />
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/ClassLoader.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/io/FileInputStream.java" />
+    <entry file="file://$PROJECT_DIR$/MySwingTextSystem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第06课---题目图片处理+按钮功能/代码/src/view/ExamFrame.java" />
+    <entry file="file://F:/2.Java笔记/考试系统/考试系统第07课---倒计时处理+提交查看成绩/代码/src/view/ExamFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/domain/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dbfile/User.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/tomcat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/mysql.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/java.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dbfile/Question.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_login/TextLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_gui/TestGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/BaseFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/MySpring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/QuestionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/QuestionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ExamFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="252" column="26" selection-start-line="252" selection-start-column="26" selection-end-line="252" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/QuestionFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/UserFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MySwingTextSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
